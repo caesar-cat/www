@@ -1,0 +1,18 @@
+body {
+  background-color: "#000";
+}
+.div1 {
+  width: 100px;
+  height: 100px;
+  background: url('../image/icons/游戏卡.png') no-repeat center;
+}
+.div2 {
+  width: 100px;
+  height: 100px;
+  background: url('../image/icons/摇杆.png') no-repeat center;
+}
+.div3 {
+  width: 100px;
+  height: 100px;
+  background: url('../image/icons/摇杆.png') no-repeat center;
+}
